@@ -69,3 +69,5 @@ b2 = df[df['group'] == 'B2']
 
 # top_3 = df.sort_values(['avg_score'], ascending=False).head(3)
 # =================================
+
+print('hello')
